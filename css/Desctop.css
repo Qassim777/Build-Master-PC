@@ -1,0 +1,11 @@
+body{
+  margin: 0;
+  color:#235789;
+  background-color: #0C1115;
+}
+.container{
+  margin: 0;
+  margin-top: 150px;
+  margin-bottom: 150px;
+  row-gap:40px;
+}

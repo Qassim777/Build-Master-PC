@@ -1,0 +1,33 @@
+/* Style for the order history container */
+.order-history-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #090D10;
+    color: white;
+}
+
+/* Style for order details */
+.order {
+    margin-bottom: 20px;
+}
+
+.order h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.order p {
+    margin: 5px 0;
+}
+
+.order ul {
+    list-style: none;
+    padding: 0;
+}
+
+.order li {
+    margin-bottom: 5px;
+}
